@@ -1,5 +1,6 @@
 {
   "$schema": "https://turborepo.org/schema.json",
+  "globalDependencies": ["$NEXT_PUBLIC_HOST", "$JWT_SECRET"],
   "pipeline": {
     "build": {
       "dependsOn": ["^build"],

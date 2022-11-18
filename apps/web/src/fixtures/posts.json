@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a5f45d83-ccb4-4a25-b14a-56a7827687e1",
+    "title": "Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie)",
+    "description": "Adverse effect of antithrombotic drugs",
+    "author": {
+      "id": "f8d4880e-8008-4455-af89-2928957c1809",
+      "username": "rdomleo0",
+      "profile": null,
+      "createdAt": "6/7/2022"
+    },
+    "published": "1/17/2022",
+    "createAt": "5/20/2022"
+  },
+  {
+    "id": "a0e5ec4a-e404-4a03-b0b8-bbe7dfdd6c3f",
+    "title": "Sophie's Revenge (Fei chang wan mei)",
+    "description": "Other specified disorders of nose and nasal sinuses",
+    "author": {
+      "id": "bcf9d2b0-e4da-4536-8dd8-12aca4771af0",
+      "username": "fduplan1",
+      "profile": null,
+      "createdAt": "6/14/2022"
+    },
+    "published": "11/2/2021",
+    "createAt": "9/24/2022"
+  },
+  {
+    "id": "1436687e-b44c-49b5-9230-22f68fe1a5dd",
+    "title": "Israeli Intelligence (Hamosad Hasagur)",
+    "description": "Unsp injury of superfic vn at shldr/up arm, right arm, subs",
+    "author": {
+      "id": "4b2809ef-c76f-4a37-a6a4-7b730986b7af",
+      "username": "schurchouse2",
+      "profile": null,
+      "createdAt": "10/29/2021"
+    },
+    "published": "7/18/2022",
+    "createAt": "2/24/2022"
+  },
+  {
+    "id": "36804493-96aa-4357-8ea3-b959b1d415c6",
+    "title": "French Roast",
+    "description": "Acute lymphangitis of abdominal wall",
+    "author": {
+      "id": "8b6446ba-bb60-4979-9862-e2b4a1ab6035",
+      "username": "dcuell3",
+      "profile": null,
+      "createdAt": "11/6/2021"
+    },
+    "published": "1/29/2022",
+    "createAt": "1/28/2022"
+  }
+]
